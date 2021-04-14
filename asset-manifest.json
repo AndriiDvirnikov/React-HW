@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-HW/static/css/main.37fb0259.chunk.css",
+    "main.js": "/React-HW/static/js/main.101b550c.chunk.js",
+    "main.js.map": "/React-HW/static/js/main.101b550c.chunk.js.map",
+    "runtime-main.js": "/React-HW/static/js/runtime-main.0b0987c9.js",
+    "runtime-main.js.map": "/React-HW/static/js/runtime-main.0b0987c9.js.map",
+    "static/js/2.e0eff0b0.chunk.js": "/React-HW/static/js/2.e0eff0b0.chunk.js",
+    "static/js/2.e0eff0b0.chunk.js.map": "/React-HW/static/js/2.e0eff0b0.chunk.js.map",
+    "static/js/3.705cb397.chunk.js": "/React-HW/static/js/3.705cb397.chunk.js",
+    "static/js/3.705cb397.chunk.js.map": "/React-HW/static/js/3.705cb397.chunk.js.map",
+    "index.html": "/React-HW/index.html",
+    "static/css/main.37fb0259.chunk.css.map": "/React-HW/static/css/main.37fb0259.chunk.css.map",
+    "static/js/2.e0eff0b0.chunk.js.LICENSE.txt": "/React-HW/static/js/2.e0eff0b0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-HW/static/media/logo.6ce24c58.svg",
+    "static/media/zhovkva.628101fd.jpg": "/React-HW/static/media/zhovkva.628101fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b0987c9.js",
+    "static/js/2.e0eff0b0.chunk.js",
+    "static/css/main.37fb0259.chunk.css",
+    "static/js/main.101b550c.chunk.js"
+  ]
+}
