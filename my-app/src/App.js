@@ -10,8 +10,9 @@ function App() {
       <Student name={User.name} nickName={User.nickName} age = {User.age} />
     </div>
   );
-}
 
+  
+}
 
 
 export default App;
